@@ -40,9 +40,21 @@ public int property1;
 public int property1;
 ```
 
+| ※ 1、2 的比對
+| ------
+| ![image](https://i.imgur.com/XGwyRce.png)
+
+--------
 3. 支援類型
 - None
 - Info
 - Warning
 - Error
 - ...... (你可以自定義更多類型和圖示)
+
+<br/>4. 類型的新增
+<br/>以新增一個叫「C8763」的類型為例，
+<br/>(1) 在 HelpBoxAttribute.cs 新增一個枚舉值
+<br/>(2) 在 HelpBoxAttributeDrawer.cs 指定該類型的圖示
+<br/>完成！
+![image](https://i.imgur.com/EN90itP.png)
