@@ -39,10 +39,8 @@ public int property1;
 ```
 
 3. 支援類型
-<pre>
 - None
 - Info
 - Warning
 - Error
 - ...... (你可以自定義更多類型和圖示)
-<pre/>
