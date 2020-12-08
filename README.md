@@ -1,4 +1,4 @@
-## UnityAttribute_FoldoutHelpBox
+## Unity Folding HelpAttribute
 一個使用 Unity DecoratorDrawer 達成的「可摺疊訊息窗」。
 
 
